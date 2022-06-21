@@ -31,7 +31,7 @@ const About = () => {
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
             I am a 22 year old web developer born in North Carolina and raised in California, currently staying in Washington. I am 
-            always wanting to learn new things and increase my experience in the field.
+            always wanting to learn new technologies and increase my work experience.
           </code>
           <br />
           <br />
