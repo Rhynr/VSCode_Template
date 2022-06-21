@@ -30,17 +30,12 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id eros
-            non nisi vulputate eleifend. Vestibulum erat ipsum, lacinia ut nibh
-            ut, pulvinar interdum lorem. Aliquam et nisi eu risus ultrices
-            suscipit nec nec quam. Suspendisse pretium fermentum luctus.
-            Maecenas vitae vestibulum ipsum, ut varius diam. Phasellus mattis
-            nunc vel purus maximus, sit amet congue ligula tincidunt. Nulla
-            tristique luctus lacinia. Nullam ut tortor arcu.
+            I am a 22 year old web developer born in North Carolina and raised in California, currently staying in Washington. I am 
+            always wanting to learn new things and increase my experience in the field.
           </code>
           <br />
           <br />
-          <code>Aenean in mi non leo placerat suscipit a eget odio:</code>
+          <code>What i've been working with:</code>
           <div className="grid grid-cols-3 gap-2 text-sm mt-5 text-brown_vs">
             <div className="flex flex-row  mb-3">
               <img
