@@ -3,7 +3,6 @@ import { ChevronDownIcon, ChevronRightIcon } from "@heroicons/react/solid";
 
 const GitLogo = require("../assets/logos/GitLogo.png");
 const LinkedinLogo = require("../assets/logos/LinkedinLogo.png");
-const KaggleLogo = require("../assets/logos/KaggleLogo.png");
 const MailLogo = require("../assets/logos/MailLogo.png");
 
 const JSIcon = require("../assets/icons/JSIcon.png");
@@ -90,29 +89,22 @@ const LeftBar = () => {
           </>
         ) : null}
         <div className="absolute inset-x-0 bottom-10 ">
-          <div className="flex px-6 space-x-7">
-            <a href="/">
+          <div className="flex px-6 space-x-7 center">
+            <a href="https://github.com/Rhynr">
               <img
                 src={GitLogo}
                 alt="Git Logo"
                 className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
             </a>
-            <a href="/">
-              <img
-                src={KaggleLogo}
-                alt="Kaggle Logo"
-                className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
-              />
-            </a>
-            <a href="/">
+            <a href="https://www.linkedin.com/in/joshua-ly-84479b232/">
               <img
                 src={LinkedinLogo}
                 alt="Linkedin Logo"
                 className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
             </a>
-            <a href="/">
+            <a href="mailto:ly.joshua99@gmail.com">
               <img
                 src={MailLogo}
                 alt="Mail Logo"
