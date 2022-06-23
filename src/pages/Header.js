@@ -10,7 +10,11 @@ function Header() {
       <button
         className="border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2"
       >
-        <code>Check out my Github!</code>
+        <code>
+          <a href='https://github.com/Rhynr'>
+            Check out my Github!
+          </a>
+        </code>
       </button>
     </div>
   );
