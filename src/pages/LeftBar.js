@@ -89,7 +89,7 @@ const LeftBar = () => {
           </>
         ) : null}
         <div className="absolute inset-x-0 bottom-10 ">
-          <div className="flex px-6 space-x-7 center">
+          <div className="flex px-6 space-x-7">
             <a href="https://github.com/Rhynr">
               <img
                 src={GitLogo}
